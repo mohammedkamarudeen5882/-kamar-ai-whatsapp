@@ -1,0 +1,13 @@
+{
+  "name": "kamar-ai-whatsapp",
+  "version": "1.0.0",
+  "description": "AI-powered WhatsApp chatbot using Meta WhatsApp Cloud API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^6.0.0"
+  }
+}
